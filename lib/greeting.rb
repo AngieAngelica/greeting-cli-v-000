@@ -3,3 +3,4 @@
   puts #{name}
   end 
   greeting(name)
+  puts "Hello #{name}. It's nice to meet you"
