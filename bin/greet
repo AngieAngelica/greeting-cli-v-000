@@ -6,4 +6,6 @@ name = gets.strip
 def greeting(name)
 end
 greeting (name)
-def greeting(
+def greeting("Hello #{name}. It's nice to meet you.")
+end 
+greeting("Hello #{name}. It's nice to meet you.")
